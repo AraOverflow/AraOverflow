@@ -41,7 +41,7 @@ Aquí verás todos los proyectos que voy a ir creando.
 ![https://youtube.com/playlist?list=PL5WIDRX6OlG_xc0w96IdKU1Jse7wHRIby](https://i.imgur.com/wHRfBnN.png)
 
 ## Curso de HTML Completo desde Cero
-<a href="https://youtu.be/kHyKwz4c--o"> <img src="https://i.imgur.com/TKek01a.jpg"></a>
+<a href="https://youtu.be/kHyKwz4c--o" target="_blank"> <img src="https://i.imgur.com/TKek01a.jpg"></a>
 
 ## Curso completo de CSS - Aprende a diseñar páginas web con estilo
 ![https://youtu.be/c1w7FBb2Qdw](https://i.imgur.com/NmNdakg.jpg)
