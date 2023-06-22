@@ -16,11 +16,9 @@ Aquí verás todos los proyectos que voy a ir creando.
 ## Puedes seguirme en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-AraOverFlow-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@araoverflow)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-@araoverflow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/araoverflow)
-[![Instagram](https://img.shields.io/badge/Instagram-@araoverflow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/araoverflow)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ara-168638278/)
+[![Twitter](https://img.shields.io/badge/Twitter-araoverflow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/araoverflow)
+[![Instagram](https://img.shields.io/badge/Instagram-araoverflow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/araoverflow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AraOverFlow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ara-168638278/)
 
 ## Lenguajes que estamos tocando:
 
@@ -33,46 +31,34 @@ Aquí verás todos los proyectos que voy a ir creando.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
 [![HTML](https://img.shields.io/badge/Html-007396?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 
-## Mis guías de estudio iOS y Android:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
-[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
-# Los proyectos de la comunidad
+# Mis Cursos
 
-## Retos de programación de la comunidad:
+## Curso de JAVA desde Cero
+![https://youtube.com/playlist?list=PL5WIDRX6OlG_xc0w96IdKU1Jse7wHRIby](https://i.imgur.com/wHRfBnN.png)
 
-![https://retosdeprogramacion.com](./retos_programacion_banner.png)
+## Curso de HTML Completo desde Cero
+<a href="https://youtu.be/kHyKwz4c--o"> <img src="https://i.imgur.com/TKek01a.jpg"></a>
 
-#### Cada semana un nuevo reto para mejorar nuestra lógica de programación desde [retosdeprogramacion.com](https://retosdeprogramacion.com)
+## Curso completo de CSS - Aprende a diseñar páginas web con estilo
+![https://youtu.be/c1w7FBb2Qdw](https://i.imgur.com/NmNdakg.jpg)
 
-[![GitHub Weekly 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
-[![GitHub Weekly Kotlin 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+## Aprende JavaScript de principio a fin: Curso completo en español
+![https://youtu.be/kFzrcMsFouA](https://i.imgur.com/9VA8WKy.jpg)
 
-## Python desde cero: Curso gratis
-![https://mouredev.com/python](./python_banner.png)
+## Conexión entre Frontend y Backend con Spring Boot y una API REST | Curso de Spring Boot
+![https://youtu.be/00_36HIaicA](https://i.imgur.com/wRzeNEU.png)
 
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
-
-## Git & GitHub desde cero: Curso gratis
-![https://mouredev.com/git](./git_github_banner.png)
-
-[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
-
-## Un día, un lenguaje: Primeros pasos en 10 lenguajes
-![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
-
-[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
 
 ## Algunos vídeos en YouTube:
 
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
+<a href="https://youtu.be/kHyKwz4c--o">
 <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
 </a>
 </td>
