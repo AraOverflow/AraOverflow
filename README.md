@@ -38,86 +38,16 @@ Aquí verás todos los proyectos que voy a ir creando.
 # Mis Cursos
 
 ## Curso de JAVA desde Cero
-![https://youtube.com/playlist?list=PL5WIDRX6OlG_xc0w96IdKU1Jse7wHRIby](https://i.imgur.com/wHRfBnN.png)
+<a href="https://youtube.com/playlist?list=PL5WIDRX6OlG_xc0w96IdKU1Jse7wHRIby" target="_blank"> <img src="https://i.imgur.com/wHRfBnN.png"></a>
 
 ## Curso de HTML Completo desde Cero
 <a href="https://youtu.be/kHyKwz4c--o" target="_blank"> <img src="https://i.imgur.com/TKek01a.jpg"></a>
 
 ## Curso completo de CSS - Aprende a diseñar páginas web con estilo
-![https://youtu.be/c1w7FBb2Qdw](https://i.imgur.com/NmNdakg.jpg)
+<a href="https://youtu.be/c1w7FBb2Qdw" target="_blank"> <img src="https://i.imgur.com/NmNdakg.jpg"></a>
 
 ## Aprende JavaScript de principio a fin: Curso completo en español
-![https://youtu.be/kFzrcMsFouA](https://i.imgur.com/9VA8WKy.jpg)
+<a href="https://youtu.be/kFzrcMsFouA" target="_blank"> <img src="https://i.imgur.com/9VA8WKy.jpg"></a>
 
 ## Conexión entre Frontend y Backend con Spring Boot y una API REST | Curso de Spring Boot
-![https://youtu.be/00_36HIaicA](https://i.imgur.com/wRzeNEU.png)
-
-
-## Algunos vídeos en YouTube:
-
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://youtu.be/kHyKwz4c--o">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/-pWSQYpkkjk">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/GoAxsdg0Xbs">
-<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/Wfh0FYR0z6I">
-<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-</table>
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
-
-## Contacto y apoyo:
-
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
-</br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+<a href="https://youtu.be/00_36HIaicA" target="_blank"> <img src="https://i.imgur.com/wRzeNEU.png"></a>
