@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/1rpx63Z.png)
 
 
-Soy desarrollador de Software desde hace 2010
+Soy desarrollador de Software desde 2010
 
 Vivo en Lisboa y en mi tiempo liobre me dedico a la divulgación y a la creación de contenido sobre programación en youtube.
 Aquí verás todos los proyectos que iremos creando juntos!
