@@ -54,3 +54,6 @@ Aquí verás todos los proyectos que iremos creando juntos!
 
 ## Conexión entre Frontend y Backend con Spring Boot y una API REST | Curso de Spring Boot
 <a href="https://youtu.be/00_36HIaicA" target="_blank"> <img src="https://i.imgur.com/wRzeNEU.png"></a>
+
+## ¡Descubre el Mejor Curso de Git y GitHub para Dominar el Control de Versiones!
+<a href="https://www.youtube.com/watch?v=8vEQ4QiB1MA" target="_blank"> <img src="https://i.imgur.com/mwEx3an.png"></a>
