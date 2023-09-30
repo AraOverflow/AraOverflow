@@ -57,3 +57,6 @@ Aquí verás todos los proyectos que iremos creando juntos!
 
 ## ¡Descubre el Mejor Curso de Git y GitHub para Dominar el Control de Versiones!
 <a href="https://www.youtube.com/watch?v=8vEQ4QiB1MA" target="_blank"> <img src="https://i.imgur.com/mwEx3an.png"></a>
+
+## Curso de React | Aprende React desde cero | Tutorial completo en español
+<a href="https://www.youtube.com/watch?v=iQVMRyk--cw&t=118s" target="_blank"> <img src="https://i.imgur.com/RxCS9kb.png"></a>
