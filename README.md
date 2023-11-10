@@ -60,3 +60,6 @@ Aquí verás todos los proyectos que iremos creando juntos!
 
 ## Curso de React | Aprende React desde cero | Tutorial completo en español
 <a href="https://www.youtube.com/watch?v=iQVMRyk--cw&t=118s" target="_blank"> <img src="https://i.imgur.com/RxCS9kb.png"></a>
+
+## Curso de Diseño de Bases de Datos y SQL: Tu Guía Completa
+<a href="https://www.youtube.com/watch?v=ucp4PdQ8o8U" target="_blank"> <img src="https://i.imgur.com/YDERXLL.png"></a>
