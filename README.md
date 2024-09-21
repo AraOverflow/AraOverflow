@@ -65,4 +65,4 @@ Aquí verás todos los proyectos que iremos creando juntos!
 <a href="https://www.youtube.com/watch?v=ucp4PdQ8o8U" target="_blank"> <img src="https://i.imgur.com/YDERXLL.png"></a>
 
 ## Desarrollo de Aplicación FullStack MERN: ¡Paso a Paso y sin Problemas!
-<a href="https://www.youtube.com/watch?v=eY7fe7hYrps" target="_blank"> <img src="https://imgur.com/a/s0q0LOK"></a>
+<a href="https://www.youtube.com/watch?v=eY7fe7hYrps" target="_blank"> <img src="https://i.imgur.com/jzXEj5T.png"></a>
