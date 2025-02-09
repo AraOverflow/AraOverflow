@@ -36,6 +36,11 @@ Aquí verás todos los proyectos que iremos creando juntos!
 [![HTML](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3DDC84?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+</br>
+[![MONGODB](https://img.shields.io/badge/MongoDB-E34F26?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/NodeJS-F7DF1E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
 
 
 # Mis Cursos
@@ -66,3 +71,6 @@ Aquí verás todos los proyectos que iremos creando juntos!
 
 ## Desarrollo de Aplicación FullStack MERN: ¡Paso a Paso y sin Problemas!
 <a href="https://www.youtube.com/watch?v=eY7fe7hYrps" target="_blank"> <img src="https://i.imgur.com/jzXEj5T.png"></a>
+
+## 🚀 ¡DOMINA Tailwind CSS en 2025! | Curso COMPLETO
+<a href="[https://www.youtube.com/watch?v=eY7fe7hYrps" target="_blank"> <img src="https://i.imgur.com/yndoMX8.png"></a>
