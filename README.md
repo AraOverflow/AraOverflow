@@ -73,4 +73,7 @@ Aquí verás todos los proyectos que iremos creando juntos!
 <a href="https://www.youtube.com/watch?v=eY7fe7hYrps" target="_blank"> <img src="https://i.imgur.com/jzXEj5T.png"></a>
 
 ## 🚀 ¡DOMINA Tailwind CSS en 2025! | Curso COMPLETO
-<a href="[https://www.youtube.com/watch?v=eY7fe7hYrps" target="_blank"> <img src="https://i.imgur.com/yndoMX8.png"></a>
+<a href="https://www.youtube.com/watch?v=eY7fe7hYrps" target="_blank"> <img src="https://i.imgur.com/yndoMX8.png"></a>
+
+## Ruta de aprendizaje del canal
+<a href="https://roadmap.sh/r?id=67a9bd5af8633434822efe94" target="_blank"><img src="https://i.imgur.com/bTILpDw.jpeg"                                                                           ></a>
