@@ -75,5 +75,8 @@ Aquí verás todos los proyectos que iremos creando juntos!
 ## 🚀 ¡DOMINA Tailwind CSS en 2025! | Curso COMPLETO
 <a href="https://www.youtube.com/watch?v=eY7fe7hYrps" target="_blank"> <img src="https://i.imgur.com/yndoMX8.png"></a>
 
+## 🚀 Curso Completo de Next.js 14 desde CERO en 2025 | Aprende Full Stack con React
+<a href="https://youtu.be/6t2fHaUVGfQ" target="_blank"> <img src="https://i.imgur.com/HGOwc6W.png"></a>
+
 ## Ruta de aprendizaje del canal
 <a href="https://roadmap.sh/r?id=67a9bd5af8633434822efe94" target="_blank"><img src="https://i.imgur.com/bTILpDw.jpeg"                                                                           ></a>
