@@ -82,4 +82,7 @@ Aquí verás todos los proyectos que iremos creando juntos!
 <a href="https://www.youtube.com/watch?v=vMwjdFqt6Aw" target="_blank"> <img src="https://i.imgur.com/UK2KnFk.png"></a>
 
 ## Ruta de aprendizaje del canal
-<a href="https://roadmap.sh/r?id=67a9bd5af8633434822efe94" target="_blank"><img src="https://i.imgur.com/bTILpDw.jpeg"                                                                           ></a>
+<a href="https://roadmap.sh/r?id=67a9bd5af8633434822efe94" target="_blank"><img src="https://i.imgur.com/bTILpDw.jpeg"></a>
+
+## Lógica de Programación - El Algoritmo Más Famoso para Principiantes. Pruebas técnicas. FizzBuzz
+<a href="https://youtu.be/zJ2RtPLIN2w" target="_blank"> <img src="https://i.imgur.com/i06hBCu.png"></a>
