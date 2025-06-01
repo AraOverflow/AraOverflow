@@ -86,3 +86,6 @@ Aquí verás todos los proyectos que iremos creando juntos!
 
 ## Lógica de Programación - El Algoritmo Más Famoso para Principiantes. Pruebas técnicas. FizzBuzz
 <a href="https://youtu.be/zJ2RtPLIN2w" target="_blank"> <img src="https://i.imgur.com/i06hBCu.png"></a>
+
+## 🔔 Menú Deslizante SOLO con CSS — Sin JS ni Checkbox | Popover + View Transitions 💥
+<a href="https://youtu.be/q5s6cbHWomY?si=pFIwdO1vp1y2bKdE" target="_blank"> <img src="https://i.imgur.com/t9cnmj0.png"></a>
